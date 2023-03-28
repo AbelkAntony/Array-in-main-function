@@ -5,6 +5,9 @@ User can add element
 Ther program print the array elements and print the location of each elements
 
 
+Here is my replit link : https://replit.com/@mrabelantony/array-in-main-function
+
+
 #screenshorts
 
 ![Capture1](/ScreenShot/1.png)
